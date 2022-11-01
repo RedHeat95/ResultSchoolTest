@@ -11,3 +11,7 @@
 ## Slider
 
 ### [JSfiddle](https://jsfiddle.net/RedHeat/eupat9Lq/2/)
+
+## Board
+
+### [JSfiddle](https://jsfiddle.net/RedHeat/x28npzqo/)
