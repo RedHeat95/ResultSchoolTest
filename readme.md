@@ -7,3 +7,7 @@
 ## Drag and Drop
 
 ### [JSfiddle](https://jsfiddle.net/RedHeat/w9u3k5ox/1/)
+
+## Slider
+
+### [JSfiddle](https://jsfiddle.net/RedHeat/eupat9Lq/2/)
