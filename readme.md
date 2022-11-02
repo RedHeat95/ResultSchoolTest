@@ -10,8 +10,12 @@
 
 ## Slider
 
-### [JSfiddle](https://jsfiddle.net/RedHeat/eupat9Lq/2/)
+### [JSfiddle](https://jsfiddle.net/RedHeat/eupat9Lq/4/)
 
 ## Board
 
-### [JSfiddle](https://jsfiddle.net/RedHeat/x28npzqo/)
+### [JSfiddle](https://jsfiddle.net/RedHeat/x28npzqo/3/)
+
+## Aim game
+
+### [JSfiddle](https://jsfiddle.net/RedHeat/xohzLp9a/2/)
